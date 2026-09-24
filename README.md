@@ -16,7 +16,7 @@ and watch the attribution move with them.
 
 ---
 
-## The headline
+## Results
 
 Over **7–18 March 2022**, Russian e-commerce volume fell **43.7%** against its
 pre-announcement level (32.8bn → 18.5bn, five-day reference against a three-day
