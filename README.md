@@ -13,7 +13,7 @@ assessing what the payment cutoff actually achieved is not *did volume fall,* bu
 
 This repository builds six counterfactuals of the no-suspension world, states
 the identifying assumptions each one needs, and lets you move those assumptions
-and watch the attribution move with them.
+and watch the attribution move with them. None of these are clear-cut. Violent macro shocks make measuring things like this difficult, but through examining different methods with transparent assumptions, we can come closer to knowing the truth
 
 ---
 
