@@ -1,17 +1,14 @@
-# Payments Shock Attribution
+# Sanctions Effectiveness Estimator 
 
-**Separating a sanctions effect from a war effect, when both hit the same target in the same fortnight.**
+**Separating the Effect of Payment Sanctions and Wartime on Russian E-commerce.**
 
 On 5 March 2022 Visa and MasterCard announced they were suspending service in
 Russia. Cross-border card acceptance degraded over the next four trading days
 and was gone by 10 March. Russian e-commerce volume fell 44% over the following
 two weeks.
 
-Russia had been at war since 24 February. So the operative question for anyone
-assessing what the payment cutoff actually achieved is not *did volume fall* —
-it did — but **how much of the fall the card networks caused, and how much would
-have happened anyway.** Get that wrong in either direction and you either
-overstate what financial denial buys you, or you retire a capability that worked.
+Russia had been at war since 24 February. So the primary question for anyone
+assessing what the payment cutoff actually achieved is not *did volume fall,* but **how much of the e-commerce drop did the card networks cause, and how much would have happened anyway.** A mistake here could mean over-attributing impact to weak sanctions or just concluding that Russian consumers simply made a collective buying decision at the same time the shocks were happening.
 
 This repository builds six counterfactuals of the no-suspension world, states
 the identifying assumptions each one needs, and lets you move those assumptions
