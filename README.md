@@ -27,7 +27,7 @@ roughly **80–95% of the shock-attributable decline**, with the war channel
 supplying the rest. Two estimators dissent depending on how the anticipation
 buffer is set, which is the point of shipping all six rather than one.
 
-The single most load-bearing fact in the dataset is this:
+One key fact:
 
 > Between the invasion on 24 February and the suspension announcement on 5
 > March — eleven trading days with the war live and the card rails intact —
@@ -39,6 +39,8 @@ pushes the attribution toward the payments channel. It is also, in isolation,
 too convenient to trust, which is why the dashboard exposes the elasticity as a
 slider and shows you what has to be true for the war to carry the decline
 instead.
+
+As even the end of this relatively short dataset shows, Russian e-commerce slowly moved up. The Mir card system continued its gradual rollout, and in the last few years Russia has created an autarkic financial technology system. Long before the Ukraine war, they had been preparing for financial independence from the west, and the war gave them the push that made it necessary. 
 
 ---
 
@@ -267,9 +269,9 @@ spread across the six, not any one of them.
 
 Substitution is out of scope. The dataset ends before the Mir network and
 domestic rails absorbed much of the displaced volume, so nothing here speaks to
-how durable the effect was past the two-week window.
+how durable the effect was past the two-week window. 
 
-Source data was assembled for the extended abstract *How Much Damage did Major
-Payment Services Suspensions Cause to Russian E-commerce?* (Hinrichs & Yu).
+This was built as an extension of an original abstract *How Much Damage did Major
+Payment Services Suspensions Cause to Russian E-commerce?* (Hinrichs & Yu). 
 Methodological lineage: Brodersen et al. (2015) for the state-space
 counterfactual; Menchetti, Cipollini & Mealli (2023) for C-ARIMA.
