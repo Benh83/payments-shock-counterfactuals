@@ -9,11 +9,11 @@ and was gone by 10 March. Russian e-commerce volume fell 44% over the following
 two weeks, as a wider range of financial sanctions took place, ending on March 23rd.
 
 Russia had been at war since 24 February. So the primary question for anyone
-assessing what the payment cutoff actually achieved is not *did volume fall,* but **how much of the e-commerce drop did the card networks cause, and how much would have happened anyway.** A mistake here could mean over-attributing impact to weak sanctions or just concluding that Russian consumers simply made a collective buying decision at the same time the shocks were happening.
+assessing what the payment cutoff actually achieved is not *did volume fall,* but **how much of the e-commerce drop did the financial sanctions cause, and how much would have happened anyway.** A mistake here could mean over-attributing impact to weak sanctions or just concluding that Russian consumers simply made an unlikely collective buying decision at the same time the shocks were happening.
 
 This repository builds six counterfactuals of the no-suspension world, states
 the identifying assumptions each one needs, and lets you move those assumptions
-and watch the attribution move with them. None of these are clear-cut. Violent macro shocks make measuring things like this difficult, but through examining different methods with transparent assumptions, we can come closer to knowing the truth
+and watch the attribution move with them. None of these are clear-cut. Data on similiar wartime sanctions combinations could let us construct a more realistic counterfactual, but that data is not available to me. Violent macro shocks make measuring things like this difficult, but through examining different methods with transparent assumptions, we can come closer to knowing the truth
 
 ---
 
